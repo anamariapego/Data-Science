@@ -1,6 +1,4 @@
-![image](https://github.com/anamariapego/Data-Science/assets/57241391/45d55e09-b61b-4243-8d2e-8fc400b5fb3c)
-
-
+![image](https://github.com/anamariapego/Data-Science/assets/57241391/24cdaed4-f219-4f8a-8f67-380b6d7b082e)
 
 # Projetos de Ciência de Dados
 
